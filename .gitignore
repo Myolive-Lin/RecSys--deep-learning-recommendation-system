@@ -1,5 +1,8 @@
 /RecSys/data_processing/__pycache__
-/RecSys/dataset
+dataset/
+News Recommendation System Project/data/
+.gitignore
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
